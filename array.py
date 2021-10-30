@@ -10,6 +10,8 @@
 - index, insert, append, extend, remove, count, pop, reverse, sort, copy, clear 
 '''
 
+
+
 # listKu = [1,'arwani',True,[1,2,3]]
 # print(listKu)
 # print(len(listKu))
@@ -45,6 +47,7 @@
 
 # listBaru.pop(1)
 # print(listBaru)
+# # listBaru.remove(3)
 
 # listBaru.reverse()
 # print(listBaru)
@@ -55,7 +58,7 @@
 # print(listBaru[::-1])
 
 
-# Dictionary
+#Dictionary
 
 # dataku = {'nama':'arwani','umur':22,'masih_hidup':True}
 

@@ -19,6 +19,7 @@ Print Format
 # print(2**3)		# 8
 # print(16**.25)	# 2
 
+
 # Print format
 
 print('aku' + '+ kamu' + ' = ') # digunakan untuk string dan string saja

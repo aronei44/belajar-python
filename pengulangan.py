@@ -7,7 +7,7 @@
 '''
 
 
-# for i in range(10):
+# for i in range(0,10,3):
 # 	print('angka ke ', i)
 
 # for huruf in 'aku belajar python':
@@ -15,12 +15,12 @@
 
 # buah = ['nanas','pisang','apel','jeruk']
 
-# for namabuah in buah:
-# 	print(namabuah)
+# for index, namabuah in enumerate(buah):
+# 	print(index, namabuah)
 
 # for i in range(5):
 # 	for j in range(5):
 # 		print(i,',',j)
 
-# number = [i for i in range(0,20,2)]
+# number = [i for i in range(0,1000,2)]
 # print(number)

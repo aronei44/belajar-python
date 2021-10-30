@@ -4,16 +4,16 @@
 3. return
 '''
 
-# def hello():
-# 	print('hallo semuanya')
+def hello():
+	print('hallo semuanya')
 
-# def sayHello(nama):
-# 	print('nama saya', nama)
+def sayHello(nama):
+	print('nama saya', nama)
 
-# def ucapan(nama):
-# 	return 'nama saya adalah', nama
+def ucapan(nama):
+	return 'nama saya adalah ' + nama
 
 
-# hello()
-# sayHello('udin')
-# print(ucapan('udin'))
+hello()
+sayHello('ucup')
+print(ucapan('udin'))
