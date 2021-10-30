@@ -1,0 +1,21 @@
+'''
+1. Penulisan variable
+	a. contoh penulisan variabel yang benar:
+		myVar 	= 1
+		my_var 	= 1
+		myVar2 	= 2
+		my2Var	= 2
+		myvar 	= 2
+	b. penulisan yang salah :
+		1var 		= 2
+		my var  = 2
+2. Tipe data
+	a. integer
+	b. float
+	c. string
+	d. boolean
+	e. list
+	f. tuple
+	g. dictionary
+	h. set
+'''
